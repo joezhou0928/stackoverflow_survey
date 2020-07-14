@@ -1,5 +1,4 @@
 # Stack Overflow Survey
-
 ## Overview
 This project uses the 2020 Stack Overflow Developer Survey Results data to explore **what**, **how** and **when** in becoming a qualified developer. Here's the link to the original dataset: https://insights.stackoverflow.com/survey.
 
